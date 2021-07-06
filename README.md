@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Olinpp
 - 👀 I’m interested in Math
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me olinputra13@gmail.com
 
 <!---
