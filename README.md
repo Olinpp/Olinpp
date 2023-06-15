@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Olinpp
-- 👀 data enthusiast
-- 📫 How to reach me olinputra13@gmail.com
+-  saya adalah seorang data enthusiast
+-  saya belajar di bebagai platform data seperti :
+  datacamp.com | dqlab.id | myskill.id | skillacademy.com | kaggle.com | elearning.tableau.com
+
+- 📫email : olinputra13@gmail.com
 
 <!---
 Olinpp/Olinpp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
