@@ -2,7 +2,7 @@
 -  saya adalah seorang data enthusiast
 -  saya belajar di bebagai platform untuk membantu pemahaman tentang data seperti :
   datacamp.com | dqlab.id | myskill.id | skillacademy.com | kaggle.com | elearning.tableau.com
-
+- disini saya akan berbagi hasil belajar saya di berbagai platform tersebut
 - 📫email : olinputra13@gmail.com
 
 <!---
